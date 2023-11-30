@@ -16,7 +16,7 @@
     {
         id: 3,
         nombre:"Mousse de arroz",
-        descripcion:"Mousse de arroz con leche y aroma de azahar",
+        descripcion:"Moussee de arroz con leche y aroma de azahar",
         precio:"",
         imagen:"Mousse-de-arroz-con-leche.jpg"
     },
